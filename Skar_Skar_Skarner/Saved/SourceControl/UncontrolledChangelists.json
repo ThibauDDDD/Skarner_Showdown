@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/julien/Documents/Epi_projects/Keimyung_year/3DGA/Skar_Skar_Skarner/Skar_Skar_Skarner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/01/ELNZHBZD36XF95PXBT35JR.uasset",
+				"/Users/julien/Documents/Epi_projects/Keimyung_year/3DGA/Skar_Skar_Skarner/Skar_Skar_Skarner/Content/Skarner/SkarnerHurtAnimation.uasset",
+				"/Users/julien/Documents/Epi_projects/Keimyung_year/3DGA/Skar_Skar_Skarner/Skar_Skar_Skarner/Content/Skarner/SkarnerHurtAnimation_Anim.uasset",
+				"/Users/julien/Documents/Epi_projects/Keimyung_year/3DGA/Skar_Skar_Skarner/Skar_Skar_Skarner/Content/Skarner/SkarnerHurtAnimation_PhysicsAsset.uasset",
+				"/Users/julien/Documents/Epi_projects/Keimyung_year/3DGA/Skar_Skar_Skarner/Skar_Skar_Skarner/Content/Skarner/SkarnerIdleAnimation.uasset",
+				"/Users/julien/Documents/Epi_projects/Keimyung_year/3DGA/Skar_Skar_Skarner/Skar_Skar_Skarner/Content/Skarner/SkarnerIdleAnimation_Anim.uasset",
+				"/Users/julien/Documents/Epi_projects/Keimyung_year/3DGA/Skar_Skar_Skarner/Skar_Skar_Skarner/Content/Skarner/SkarnerIdleAnimation_PhysicsAsset.uasset",
 				"C:/Users/charr/Documents/Unreal Projects/Skar_Skar_Skarner/Content/Level/Map.umap",
 				"C:/Users/charr/Documents/Unreal Projects/Skar_Skar_Skarner/Content/Level/Map_HLOD0_Instancing.uasset",
 				"C:/Users/charr/Documents/Unreal Projects/Skar_Skar_Skarner/Content/__ExternalActors__/Level/Map/9/UH/N8J2IJPU7SAC582MYP9EZ1.uasset",
