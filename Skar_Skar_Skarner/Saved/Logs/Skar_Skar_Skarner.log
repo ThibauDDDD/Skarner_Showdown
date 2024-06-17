@@ -38780,3 +38780,46 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.17-12.29.43:884][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 5.83 sec)
 [2024.06.17-12.29.43:898][915]AssetCheck: New page: Asset Save: WB_LevelUi
 [2024.06.17-12.29.43:898][915]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_LevelUi.WB_LevelUi
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 0 (Found bundle for host: 0x46466950270 [serially])
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 5 (Closing connection)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8C0D9A1-4D75-4F07-55C7-7B9A998EAD52%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=21184ceb4babc43120bab38ae815eaf7%7C579480159a544a9c8b919aa0f2904c3b%7Cf3fb2568-40e1-489d-9f35-9ae9bce7cf23&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 8 (  Trying 3.230.41.228:443...)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 9 (Connected to datarouter.ol.epicgames.com (3.230.41.228) port 443)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 10 (ALPN: curl offers http/1.1)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 11 (SSL reusing session ID)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 12 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 13 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 18 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 19 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 20 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 21 (ALPN: server accepted http/1.1)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 22 (Server certificate:)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 23 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 24 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 25 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 26 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 27 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 28 ( SSL certificate verify ok.)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 29 (using HTTP/1.1)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 30 (necessary data rewind wasn't possible)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 31 (Closing connection)
+[2024.06.17-12.30.23:367][419]LogHttp: Warning: 000004651729D200: libcurl info message cache 32 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.17-12.30.23:368][419]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8C0D9A1-4D75-4F07-55C7-7B9A998EAD52%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=21184ceb4babc43120bab38ae815eaf7%7C579480159a544a9c8b919aa0f2904c3b%7Cf3fb2568-40e1-489d-9f35-9ae9bce7cf23&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.17-12.31.28:291][635]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.06.17-12.31.28:384][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.06.17-12.31.28:434][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-12.31.28:555][635]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.06.17-12.31.28:556][635]LogSavePackage: Moving '../../../../../../Users/charr/Documents/GitHub/Skar_Skar_Skarner/Skar_Skar_Skarner/Saved/BP_ThirdPersonCharacter47CAAFB34C86FFA12E449F84719F06E6.tmp' to '../../../../../../Users/charr/Documents/GitHub/Skar_Skar_Skarner/Skar_Skar_Skarner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.06.17-12.31.28:563][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 5.96 sec)
+[2024.06.17-12.31.28:570][635]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.06.17-12.31.28:570][635]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
