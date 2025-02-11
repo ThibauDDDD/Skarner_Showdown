@@ -1,2 +1,2 @@
-# Skar_Skar_Skarner
+# SkarnerShowdown
 2d fighting game with 3d engine
